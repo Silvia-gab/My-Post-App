@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './search-panel.css'
+
 const SearchPanel = () => {
 	return (
 		<input
@@ -7,7 +9,7 @@ const SearchPanel = () => {
 		type="text"
 		placeholder="search by records"
 		/>
-		)
+	)
 }
 
 export default SearchPanel;
