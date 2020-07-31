@@ -1,3 +1,5 @@
+This is a simple post-application with React. This application like twitter, you can see how I work with JSX, style-components, forms and etc...
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
